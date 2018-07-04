@@ -2,4 +2,4 @@
 Zone24x7 SE KT
 
 
-![MainScreenOfTheGame](OtherResources/wall01.png)
+![Zone24x7 SE KT](OtherResources/wall01.png)
